@@ -1,0 +1,6 @@
+@API_HNG__HostAddress = http://localhost:5129
+
+GET {{API_HNG__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
