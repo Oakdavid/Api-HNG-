@@ -30,3 +30,4 @@ C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Debug\net8.0\refint\API(HNG).d
 C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Debug\net8.0\API(HNG).pdb
 C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Debug\net8.0\API(HNG).genruntimeconfig.cache
 C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Debug\net8.0\ref\API(HNG).dll
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Debug\net8.0\API(HNG).sourcelink.json

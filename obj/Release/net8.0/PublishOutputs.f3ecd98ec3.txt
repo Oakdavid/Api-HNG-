@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\API(HNG).exe
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\API(HNG).dll
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\API(HNG).deps.json
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\API(HNG).runtimeconfig.json
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\API(HNG).pdb
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Documents\VS_Application\API(HNG)\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
